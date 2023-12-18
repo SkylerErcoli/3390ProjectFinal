@@ -14,5 +14,6 @@ npm install nodemon -g
 
 npm install express cors
 
+Bulk of the code is in /src/app.js /src/app.css and /backend/index.js
 
 Database won't connect unless IP is approved on mongodb. Contact sercoli@csub.edu for access if needed for testing.
