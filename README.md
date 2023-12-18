@@ -5,6 +5,7 @@ Written by Francis Mateo, Alberto Munoz, and Skyler Ercoli
 Must run "npm start" in main directory, and "nodemon index.js" in the backend directory (2 terminals).
 
 May need to install axios and react-scripts in main directory. May need to install nodemon, express, and cors in backend.
+
 npm install axios react-scripts
 
 cd backend
